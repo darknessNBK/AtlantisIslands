@@ -1,0 +1,8 @@
+name: AtlantisLand
+version: '${project.version}'
+main: com.lighty.atlantisland.AtlantisLandPlugin
+api-version: 1.17
+authors: [ Lighty ]
+commands:
+  land:
+

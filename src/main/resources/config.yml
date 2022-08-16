@@ -1,0 +1,5 @@
+settings:
+  land-contract: '0x3150F60645838dbc3d33021b05d2b860013073d8'
+  island-world: "water,0,105,0"
+  island-lobby: "world,0,105,0"
+  island-gap: 500
